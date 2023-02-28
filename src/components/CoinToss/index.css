@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.a {
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.b {
+  color: brown;
+}
+.c {
+  background-color: white;
+}
+
+.div2 {
+  display: flex;
+}
+
+.p {
+  padding-left: 10px;
+}
